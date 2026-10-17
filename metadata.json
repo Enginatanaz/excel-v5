@@ -1,0 +1,6 @@
+{
+  "name": "Excel Akademi AI",
+  "description": "Temelden ileri seviyeye interaktif Excel eğitimi, doğal Türkçe sesli yapay zekâ öğretmeni ve gerçek Excel çalışma alanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
